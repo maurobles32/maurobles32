@@ -1,16 +1,53 @@
-## Hi there 👋
+Pedro Mauricio Robles Mora
+Telecommunications Engineer & Full Stack Web Developer
+Ingeniero en Telecomunicaciones y Desarrollador Web especializado en creación de sitios web, plataformas digitales, automatización de procesos e integración de herramientas de Inteligencia Artificial.
 
-<!--
-**maurobles32/maurobles32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Áreas de trabajo
+Desarrollo Web Frontend
+Desarrollo Web Backend
+WordPress y WooCommerce
+Automatización de procesos
+Integración de IA
+SEO Técnico
+Gestión Web Corporativa
+Tecnologías
+Frontend
+HTML5
+CSS3
+JavaScript
+TypeScript
+React
+Next.js
+Backend
+Node.js
+Express.js
+PHP
+Python
+Bases de Datos
+PostgreSQL
+MongoDB
+MySQL
+CMS
+WordPress
+WooCommerce
+Drupal
+Herramientas
+Git
+GitHub
+Google Analytics
+Google Ads
+Experiencia
+LATIMOS BOCALÁN COLOMBIA
+Ingeniero en Telecomunicaciones, Desarrollador Web y Webmaster.
 
-Here are some ideas to get you started:
+A3 INTERNATIONAL MARINAS
+Ingeniero en Telecomunicaciones, Desarrollador Web y Webmaster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente
+Construyendo proyectos Full Stack.
+Aplicando IA al desarrollo web.
+Fortaleciendo arquitectura moderna con React y Next.js.
+Contacto
+LinkedIn: www.linkedin.com/in/pedro-mauricio-robles-mora
+
+GitHub: https://github.com/maurobles32
