@@ -36,7 +36,9 @@ Git
 GitHub
 Google Analytics
 Google Ads
+
 Experiencia
+
 LATIMOS BOCALÁN COLOMBIA
 Ingeniero en Telecomunicaciones, Desarrollador Web y Webmaster.
 
