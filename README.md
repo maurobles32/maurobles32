@@ -164,7 +164,7 @@ Escuela Naval Almirante Padilla
 
 ### Full Stack Web Development Diploma
 
-Universitat de Catalunya
+UdeCataluña
 
 ---
 
