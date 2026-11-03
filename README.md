@@ -8,7 +8,7 @@ Telecommunications Engineer and Full Stack Web Developer with experience in web 
 
 ---
 
-## 👨‍💻 Sobre mí | About Me
+##  Sobre mí | About Me
 
 ### Español
 
@@ -28,7 +28,7 @@ In addition to my technology background, I have experience in strategic leadersh
 
 ---
 
-## 🚀 Especialidades | Areas of Expertise
+##  Especialidades | Areas of Expertise
 
 ### Desarrollo Web | Web Development
 
@@ -57,7 +57,7 @@ In addition to my technology background, I have experience in strategic leadersh
 
 ---
 
-## 🛠️ Stack Tecnológico | Technology Stack
+##  Stack Tecnológico | Technology Stack
 
 ### Frontend
 
@@ -118,7 +118,7 @@ In addition to my technology background, I have experience in strategic leadersh
 
 ---
 
-## 💼 Experiencia Profesional | Professional Experience
+##  Experiencia Profesional | Professional Experience
 
 ### LATIMOS BOCALÁN COLOMBIA
 
@@ -152,7 +152,7 @@ In addition to my technology background, I have experience in strategic leadersh
 
 ---
 
-## 🎓 Formación Académica | Education
+##  Formación Académica | Education
 
 ### Telecommunications Engineering
 
@@ -168,7 +168,7 @@ Universitat de Catalunya
 
 ---
 
-## 🌎 Languages
+##  Languages
 
 - Spanish (Native)
 - English (Intermediate)
@@ -176,7 +176,7 @@ Universitat de Catalunya
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 The repositories below represent my continuous learning and development process in web technologies.
 
@@ -190,7 +190,7 @@ The repositories below represent my continuous learning and development process 
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 ### Español
 
@@ -218,7 +218,7 @@ Currently focused on strengthening and publicly documenting projects related to:
 
 ---
 
-## 🤝 Competencias Profesionales | Professional Skills
+##  Competencias Profesionales | Professional Skills
 
 - Strategic Leadership
 - Multidisciplinary Team Management
@@ -233,7 +233,7 @@ Currently focused on strengthening and publicly documenting projects related to:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 ### LinkedIn
 
